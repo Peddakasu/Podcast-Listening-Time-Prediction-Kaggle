@@ -40,7 +40,7 @@ The task was to **predict the listening time (in minutes) of podcast episodes** 
 ## 📸 Leaderboard Screenshot
 To verify results, here’s my leaderboard snapshot from Kaggle:
 
-![Leaderboard Screenshot](images/leaderboard.png)
+![Leaderboard Screenshot](leaderboard.png)
 
 
 
