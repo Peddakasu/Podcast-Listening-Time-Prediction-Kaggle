@@ -32,8 +32,8 @@ The task was to **predict the listening time (in minutes) of podcast episodes** 
 ## 🏆 Results
 - Achieved **final submission** after the deadline with `submission2.csv`
 - Model: **RandomForestRegressor** with tuned hyperparameters
-- Best RMSE achieved on validation set (local): ~ _(fill in your local RMSE here)_
-- Kaggle Public Leaderboard Score: **_(fill in your score here)_**
+- Best RMSE achieved on validation set (local): ~ _(local RMSE 9.088018118333643)_
+- Kaggle Public Leaderboard Score: **_Publicscore:12.80036 and privatescore:12.70682_**
 
 ---
 
